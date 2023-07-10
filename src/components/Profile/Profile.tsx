@@ -6,7 +6,6 @@ import MyPosts from "./MyPosts/MyPosts";
 const Profile = () => {
     return (
         <div className={s.content}>
-            Контент
             <div>
                 <img
                     src="https://www.breakflip-awe.com/uploads2/Pierre-Louis/the-social-netwrok-streaming.png"
