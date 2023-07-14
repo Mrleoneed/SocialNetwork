@@ -10,5 +10,11 @@
 'n c c';
 }
 
+.appWrapperContent {
+    grid-area: c;
+    background-color: cadetblue;
+
+}
+
 
 
